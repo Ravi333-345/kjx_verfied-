@@ -145,6 +145,7 @@ const P = styled.p`
     
     @media (min-width:768px){
         font-size:19px;
+        padding : 0px 45px
     }
 `
 
